@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Pacifico&display=swap');
+
+
+
+.mainbg{
+    background-image: url(./../../images/slider-3.png);
+    padding: 152px;
+    background-position: right;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.banner12 {
+    background-image: url(./../../images/banner-11.png);
+    background-position: center;
+    background-size: cover;
+    padding: 125px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.mini1{
+    background-image: url(./../../images/banner-1.png);
+    background-position: bottom;
+    background-size: cover;
+    text-align: left;
+    background-repeat: no-repeat;
+}
+
+.mini2{
+    background-image: url(./../../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+}
+
+.mini3{
+    background-image: url(./../../images/tech.jpg);
+    background-position: center;
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+.align-ele{
+   
+    padding: 100px;
+}
+.align-ele2{
+   
+    padding: 200px;
+}
+
